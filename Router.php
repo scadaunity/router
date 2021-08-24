@@ -9,7 +9,7 @@ use Scadaunity\Router\RouteCollection;
 /**
  *
  */
-class Route
+class Router
 {
 
     protected static $route_collection;
